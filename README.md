@@ -606,6 +606,48 @@ Here’s a list of resources categorized for learning algorithms, whether you're
 
 ---
 
+**top algorithms** that every advanced coder should master to solve highly complex problems efficiently. These algorithms span various domains like sorting, searching, dynamic programming, machine learning, and graph theory. Each has been instrumental in foundational computer science and real-world applications:
+
+---
+
+### **1. Divide and Conquer Algorithms**
+
+![image](https://github.com/user-attachments/assets/8475af85-bf11-4f6c-ad2f-4ea327a62def)
+
+- Breaks a problem into smaller subproblems, solves them recursively, and combines results.
+
+![image](https://github.com/user-attachments/assets/daaa6405-4157-4aa1-a715-f049e391f04b)
+
+- **Examples:** 
+
+  - Merge Sort
+
+![image](https://github.com/user-attachments/assets/439c70df-4283-4781-b1c3-79e735017c95)
+
+![image](https://github.com/user-attachments/assets/4b3b9756-c785-409d-8d0c-17321625c841)
+
+![image](https://github.com/user-attachments/assets/83bd9950-0a89-4fa5-90c8-ff5859fd3dce)
+
+![image](https://github.com/user-attachments/assets/919cb871-683a-48db-b1de-eae12990f244)
+
+  - Quick Sort
+
+![image](https://github.com/user-attachments/assets/55bb6b08-e7f5-4936-8f28-e05f7cb4b94e)
+
+![image](https://github.com/user-attachments/assets/593f8635-0f19-4ce6-83b5-934ffb8dec06)
+
+![image](https://github.com/user-attachments/assets/81523c6d-af8f-42fe-8c32-39c92ca74ddc)
+
+  - Binary Search
+
+![image](https://github.com/user-attachments/assets/3dbae73f-50d7-45e6-9d49-0fc34253698d)
+
+![image](https://github.com/user-attachments/assets/0e6b57a9-d48d-4684-9791-7b081c5a4fce)
+
+
+---
+
+
 ### **Books**  
 1. **For Beginners**:  
    - *“Grokking Algorithms” by Aditya Bhargava*: A visual, beginner-friendly introduction to algorithms.  
