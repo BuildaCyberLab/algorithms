@@ -116,6 +116,9 @@ Big-O describes how the runtime (or space) of an algorithm grows as the input si
 
 ### **3. Core Algorithm Concepts**  
 
+![image](https://github.com/user-attachments/assets/497375c9-b1b6-4c35-9a5e-8e727f4ba28c)
+
+
 #### **Sorting**  
 - **Bubble Sort**: Compare adjacent elements and swap them. (O(n²))  
 - **Insertion Sort**: Build a sorted array one element at a time. (O(n²))  
@@ -158,6 +161,9 @@ Big-O describes how the runtime (or space) of an algorithm grows as the input si
 ### **5. Code Examples with Challenges**
 
 #### **Bubble Sort**
+
+![image](https://github.com/user-attachments/assets/225a4a82-b79b-4096-926c-24265cc4fb6e)
+
 ```python
 def bubble_sort(arr):
     n = len(arr)
